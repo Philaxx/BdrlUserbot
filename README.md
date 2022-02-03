@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./resources/extras/GeezFire.gif" width="35px">𝗕𝗗𝗥𝗟-𝗨𝗕𝗢𝗧<img src="./resources/extras/GeezFire.gif" width="35px"></h1>
+<h1 align="center"><img src="./resources/extras/GeezFire.gif" width="35px">𝗣𝗛𝗜𝗟𝗔𝗫-𝗨𝗕𝗢𝗧<img src="./resources/extras/GeezFire.gif" width="35px"></h1>
 
 <p align="center">
     <a href="https://github.com/Yansaii/Bdrl-Userbot/commits/Bdrl-Userbot"><img src="https://img.shields.io/github/last-commit/Yansaii/Bdrl-Userbot?color=ff0000&logo=github&logoColor=ffffff&style=for-the-badge" /></a>
@@ -44,6 +44,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan dengan bijak.
 🔰 **THANKS YOU TO**
 *   [Kyy](https://github.com/muhammadrizky16/Kyy-Userbot)   Kyy - Userbot
 *   [Sendi](https://github.com/SendiAp/Rose-Userbot)   Rose-Userbot
-*   [Skyzu](https://github.com/Skyzu/skyzu-userbot)   skyzu-userbot
-*   [BDRL](https://github.com/Yansaii/Bdrl-Uerbot)   Bdrl-userbot
+*   [Skyzu](https://github.com/Skyzu/skyzu-userbot)    skyzu-userbot
+*   [BDRL](https://github.com/Yansaii/Bdrl-Uerbot)     Bdrl-userbot
+*   [PHILAX](https://github.com/Philaxx/Philax-Uerbot) Philax-Userbot
 *   DAN TERIMAKASIH KEPADA USERBOT LAINNYA
